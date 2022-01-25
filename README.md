@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="right" alt="Igor-Pic" height="150" style="border-radius:50px;" src="https://prntscr.com/26jaa0v">
 </div>
   
 ![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
