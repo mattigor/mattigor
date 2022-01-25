@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   
 ## Meus contatos:
   
-<p align="center">
+<p align="right">
     <a href="https://github.com/mattigor">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/mattigor">
     </a>
