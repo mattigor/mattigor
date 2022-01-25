@@ -45,8 +45,8 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/mattigor">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mattigor/">
     </a>
-## Total de visitas:    
+Total de visitas:    
     <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/mattigor/count.svg" />
  </p>
 </p>
