@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/mattigor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=7&theme=nord"/>
 </div>
