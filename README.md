@@ -1,4 +1,4 @@
-## Oi!!✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFFFFF&lines=Olá!!+Seja+bem+vindo!)](https://github.com/mattigor)
 
 <!-- Stats -->
 <div align="left">
