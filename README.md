@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
-![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
-  
 ## Meus contatos:
   
 <p align="left">
@@ -45,5 +43,6 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/mattigor">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mattigor/">
     </a>
+  ![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
  </p>
 </p>
