@@ -29,4 +29,4 @@
 
 ##
 <!-- Visualizações do perfil -->
-![](https://komarev.com/ghpvc/?username=mattigor)
+![Profile Views](https://komarev.com/ghpvc/?username=mattigor)
