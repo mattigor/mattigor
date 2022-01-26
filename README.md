@@ -1,4 +1,4 @@
-## Oi!! Me chamo Igor Matheus e sou estudante de tecnologia! ✨
+## Oi!! Me chamo Igor Matheus e estudo Desenvolvimento Web e Programação! ✨
 <div align="left">
   <a href="https://github.com/mattigor">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
