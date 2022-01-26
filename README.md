@@ -17,11 +17,11 @@
  <a href="mailto:mattigor.impr@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mattigor.impr@gmail.com">
  </a>
-&nbsp;
+ &nbsp;
  <a href="https://www.linkedin.com/in/mattigor">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mattigor/">
  </a>
-&nbsp;
+ &nbsp;
  <a href="https://t.me/mattigor">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  </a>
