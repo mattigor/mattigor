@@ -15,9 +15,9 @@
   <img align="center" alt="Igor-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-  
-<!-- Contato -->
+
 ##
+<!-- Contato -->
 <p align="left">
  <a href="mailto:mattigor.impr@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mattigor.impr@gmail.com"></a>&nbsp;
  <a href="https://www.linkedin.com/in/mattigor"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mattigor/"></a>&nbsp;
