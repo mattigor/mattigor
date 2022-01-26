@@ -1,8 +1,8 @@
 ## Oi!! Me chamo Igor Matheus e sou estudante de tecnologia! ✨
 <div align="left">
   <a href="https://github.com/mattigor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=7&theme=nord"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
