@@ -29,6 +29,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
   
+  ![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
+  
 ## Meus contatos:
   
 <p align="left">
