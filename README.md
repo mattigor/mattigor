@@ -25,7 +25,7 @@
 </p>
 
 <!-- Snake comedora de commit -->
-![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <!-- Visualizações do perfil -->
