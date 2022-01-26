@@ -1,4 +1,4 @@
-## Oi!! Me chamo Igor Matheus e estudo Desenvolvimento Web e Programação! ✨
+## Oi!!✨
 
 <!-- Stats -->
 <div align="left">
