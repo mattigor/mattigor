@@ -34,6 +34,7 @@
 
 <!-- Commit eater snake -->
 ![Snake animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
-  
+
+##
 <!-- Visualizações do perfil -->
 ![](https://komarev.com/ghpvc/?username=mattigor)
