@@ -25,8 +25,8 @@
 </p>
 
 <!-- Snake comedora de commit -->
-![Snake Animation](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
+![Animação da Cobrinha](https://github.com/mattigor/mattigor/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <!-- Visualizações do perfil -->
-![Profile Views](https://komarev.com/ghpvc/?username=mattigor)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=mattigor)
