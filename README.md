@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&color=%23FFFFFF&lines=Olá!+Seja+bem+vindo!!)](https://github.com/mattigor)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%23FFFFFF&lines=Olá!+Seja+bem+vindo!!)](https://github.com/mattigor)
 
 <!-- Stats -->
 <div align="left">
