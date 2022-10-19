@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%23FFFFFF&lines=Olá!+Seja+bem+vindo!!)](https://github.com/mattigor)
 
 <!-- Stats -->
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/mattigor">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=7&theme=react"/>
-</div>
+</div>-->
 
 <!-- Skills -->
 <div style="display: inline_block"><br>
