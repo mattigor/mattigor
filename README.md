@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   <p>🌐 Sou Desenvolvedor Web iniciante</p>
-  <p>Desde muito venho tendo contato com tecnologia, adorava acompanhar meu pai nas manutenções que ele fazia e sempre buscava aprender. Depois de anos comecei a ter minha minha experiência profissional em TI como Suporte Técnico Júnior, fazendo reparos em computadores e solucionando problemas relacionados à área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em HTML, CSS e JavaScript. Clique <a href="https://mattigor.github.io/portfolio/">aqui</a> para ver meus projetos!</p>
+  <p>Desde muito venho tendo contato com tecnologia, adorava acompanhar meu pai nas manutenções que ele fazia e sempre buscava aprender. Depois de anos comecei a ter minha minha experiência profissional em TI como Suporte Técnico Júnior, fazendo reparos em computadores e solucionando problemas relacionados à área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meus conhecimentos em HTML, CSS e JavaScript. Clique <a href="https://mattigor.github.io/portfolio/">aqui</a> para ver meu portfólio.</p>
 </div>
 
 #
