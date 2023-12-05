@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   <p>🌐 Sou Desenvolvedor Web Iniciante</p>
-  <p>Desde muito venho tendo contato com tecnologia, adorava acompanhar meu pai nas manutenções que ele fazia e sempre buscava aprender. Depois de anos comecei a ter minha minha experiência profissional em TI como Assistente de TI Júnior, fazendo reparos em computadores e solucionando problemas relacionados à área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e atuando como Suporte Técnico II no Grupo Tecnoset, alocado na ZF do Brasil. Clique <a href="https://mattigor.github.io/portfolio/">aqui</a> para ver meu portfólio.</p>
+  <p>Desde muito venho tendo contato com tecnologia, adorava acompanhar meu pai nas manutenções que ele fazia e sempre buscava aprender. Depois de anos comecei a ter minha minha experiência profissional em TI como Assistente de TI Júnior, fazendo reparos em computadores e solucionando problemas relacionados à área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e atuando como Auxiliar de Suporte Técnico II no Grupo Tecnoset, alocado na ZF do Brasil. Clique <a href="https://mattigor.github.io/portfolio/">aqui</a> para ver meu portfólio.</p>
 </div>
 
 #
