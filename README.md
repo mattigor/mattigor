@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%2339FF14&lines=Olá!+Meu+nome+é+Igor+Matheus)](https://github.com/mattigor)-->
 <div style="display: inline_block"><br>
-  <h2>💻 Um pouco sobre mim</h2>
+  <h2>✌ Um pouco sobre mim</h2>
   <p>Desde muito novo venho tendo contato com tecnologia, através de jogos e acompanhando meu pai nas manutenções que ele fazia em computadores. Depois de anos comecei a me interessar por Desenvolvimento Web depois de algum tempo tive minha minha experiência profissional em TI como Assistente de TI Júnior, fazendo reparos em computadores e solucionando problemas relacionados à área da tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e atuando como Auxiliar de Suporte Técnico II no Grupo Tecnoset, alocado na Schaeffler Brasil. Clique <a href="https://mattigor.github.io/portfolio/">aqui</a> para ver meu portfólio.</p>
 </div>
 
