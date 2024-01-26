@@ -13,6 +13,7 @@
 
 #
 
+<!-- Tecnologias que utilizo -->
 <div style="display: inline_block"><br>
   <h3>Tecnologias que utilizo</h3>
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
