@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%2339FF14&lines=Olá!+Meu+nome+é+Igor+Matheus)](https://github.com/mattigor)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%2339FF14&lines=Olá!+Meu+nome+é+Igor+Matheus)](https://github.com/mattigor)-->
 
 <!-- Contato -->
 <p align="left">
