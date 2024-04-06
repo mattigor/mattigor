@@ -14,9 +14,9 @@
 <!-- Tecnologias -->
 <div style="display: inline_block;"><br>
   <h2>Tecnologias que mais utilizo</h2>
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Igor-HTML" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-Js" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Igor-React" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Igor-Node" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
