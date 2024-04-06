@@ -1,7 +1,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&color=%2339FF14&lines=Olá!+Meu+nome+é+Igor+Matheus)](https://github.com/mattigor)-->
 <div style="display: inline_block;"><br>
   <h1>Conheça um pouco sobre mim</h1>
-  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uninter e trabalhando como Auxiliar de Suporte Técnico II no Grupo Tecnoset. Sempre me atualizo nos meus estudos através de projetos pessoais, livros e cursos pois sou uma pessoa que adora aprender e resolver problemas e que busca criar soluções inovadoras.</p>
+  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uninter e trabalhando como Auxiliar de Suporte Técnico II no Grupo Tecnoset. Meu foco é na entrega de interfaces funcionais e atraentes, sempre garantido uma boa experiência ao usuário.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
