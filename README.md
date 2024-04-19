@@ -17,6 +17,6 @@
   <img align="center" alt="Igor-HTML" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Js" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Igor-React" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Node" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Igor-React" height="28" width="38" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Igor-Figma" height="24" width="34" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
