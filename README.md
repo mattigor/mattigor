@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
   <h1>Conheça um pouco sobre mim</h1>
-  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Uninter e trabalhando como Auxiliar de Suporte Técnico II no Grupo Tecnoset, alocado na Schaeffler. Me atualizo constantemente através de documentações, cursos, livros e projetos pessoais, para que assim eu possa construir e entregar interfaces funcionais e atraentes, sempre garantido uma boa experiência ao usuário.</p>
+  <p>Atualmente estou cursando Design Gráfico e aprimorando minhas habilidades tanto em Desenvolvimento Web quanto em Mobile. Me atualizo constantemente através de documentações, cursos, livros e projetos pessoais, para que assim eu possa construir e entregar interfaces funcionais e atraentes, sempre garantido uma excelente experiência ao usuário.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
