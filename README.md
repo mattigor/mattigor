@@ -17,5 +17,5 @@
   <img align="center" alt="Igor-CSS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Igor-JS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-React" height="28" width="38" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Flutter" height="26" width="36" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Igor-Flutter" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
