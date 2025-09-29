@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
   <h1>Conheça um pouco sobre mim</h1>
-  <p>Atualmente estou cursando Design Gráfico e também aprimorando minhas habilidades tanto em Desenvolvimento Web quanto em Mobile. Me atualizo constantemente através de documentações, cursos, livros e projetos pessoais, para que assim eu possa construir e entregar interfaces funcionais e atraentes, sempre garantido uma excelente experiência ao usuário.</p>
+  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Design Gráfico, aprimorando minhas habilidades tanto em Desenvolvimento Web quanto em Mobile. Me atualizo constantemente através de documentações, cursos, livros e projetos pessoais, para que assim eu possa construir e entregar interfaces funcionais e atraentes, sempre garantido uma excelente experiência ao usuário.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
