@@ -19,3 +19,8 @@
   <img align="center" alt="Igor-React" height="28" width="38" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Igor-Flutter" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
+<div style="display: inline_block;"><br>
+  <a href="https://github.com/mattigor?tab=repositories/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=16&theme=transparent"/>
+</div>
