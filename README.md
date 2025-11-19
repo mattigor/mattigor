@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
-  <h1>Conheça um pouco sobre mim</h1>
-  <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e Design Gráfico, aprimorando minhas habilidades tanto em Desenvolvimento Web quanto em Mobile. Me atualizo constantemente através de documentações, cursos, livros e projetos pessoais, para que assim eu possa construir e entregar interfaces funcionais e atraentes, sempre garantido uma excelente experiência ao usuário.</p>
+  <h1>Sobre mim</h1>
+  <p>Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Design Gráfico. Estou estudando e criando projetos utilizando tecnologias como TypeScript, React, Flutter e NestJS com TypeORM. Procuro oportunidades para trabalhar tanto no desenvolvimento web quanto no mobile, e dar suporte nas demandas de backend quando necessário.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
@@ -10,15 +10,7 @@
     </a>
   </div>
 </div>
-<!-- Tecnologias -->
-<div style="display: inline_block;"><br>
-  <h2>Tecnologias que mais utilizo</h2>
-  <img align="center" alt="Igor-HTML" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Igor-CSS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Igor-JS" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-React" height="28" width="38" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-Flutter" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
-</div>
+<!-- GitHub Stats -->
 <div style="display: inline_block;"><br>
   <a href="https://github.com/mattigor?tab=repositories/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=transparent">
