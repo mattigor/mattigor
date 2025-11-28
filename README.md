@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
   <h1>Sobre mim</h1>
-  <p>Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Design Gráfico. Estou estudando e criando projetos utilizando tecnologias como JavaScript, TypeScript, React e Flutter. Procuro oportunidades para trabalhar tanto no desenvolvimento web quanto no mobile, e dar suporte nas demandas de backend quando necessário.</p>
+  <p>Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Design Gráfico. Estou estudando e criando projetos utilizando tecnologias como JavaScript, TypeScript, React e Flutter. Procuro oportunidades para colaborar tanto no desenvolvimento web quanto no mobile, e dar suporte nas demandas de backend quando necessário.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
