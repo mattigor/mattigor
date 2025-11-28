@@ -13,6 +13,6 @@
 <!-- GitHub Stats -->
 <div style="display: inline_block;"><br>
   <a href="https://github.com/mattigor?tab=repositories/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=transparent">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattigor&show_icons=true&theme=react">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattigor&layout=compact&langs_count=16&theme=react"/>
 </div>
