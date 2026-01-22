@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
   <h1>Sobre mim</h1>
-  <p>Atualmente faço duas faculdades, Análise e Desenvolvimento de Sistemas e Design Gráfico. Estou estudando e criando projetos utilizando tecnologias como JavaScript, TypeScript, React e Flutter. Procuro oportunidades para colaborar tanto no desenvolvimento web quanto no mobile, e dar suporte nas demandas de backend quando necessário.</p>
+  <p>Atualmente no 3º semestre, foco no desenvolvimento de interfaces no Figma com base em usabilidade e interatividade. Complemento meus projetos com estudos de front-end, traduzindo ocasionalmente meus layouts para código para entender melhor a viabilidade técnica e o processo de implementação, utilizando tecnologias como TypeScript, React e Flutter.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
