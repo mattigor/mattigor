@@ -1,6 +1,6 @@
 <div style="display: inline;"><br>
   <h1>Sobre mim</h1>
-  <p>Atualmente no 3º semestre, foco no desenvolvimento de interfaces no Figma com base em usabilidade e interatividade. Complemento meus projetos com estudos de front-end, traduzindo ocasionalmente meus layouts para código para entender melhor a viabilidade técnica e o processo de implementação, utilizando tecnologias como TypeScript, React e Flutter.</p>
+  <p>Atualmente no 3º semestre, foco na criação de interfaces no Figma com base em usabilidade e interatividade. Complemento meus projetos com estudos de front-end, traduzindo ocasionalmente meus layouts para código para entender melhor a viabilidade técnica e o processo de implementação, utilizando tecnologias como TypeScript, React e Flutter.</p>
 </div>
 <!-- Contato -->
 <div style="display: inline_block;"><br>
